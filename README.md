@@ -33,7 +33,7 @@ This project implements a solver for the N-puzzle (with grid sizes ranging from 
 2. **Run the Solver**  
    Open your terminal (or command prompt) and navigate to the project directory. Execute the main script by running:
    ```bash
-   python main.py input.txt
+   python main.py m (or e)
    ```
    If you are using a different input file, replace `input.txt` with the appropriate file path.
 
